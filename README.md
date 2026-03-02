@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1170988593.svg)](https://doi.org/10.5281/zenodo.18841086)
+
 # Long-read transcriptome assembly reveals vast transcriptional complexity in the placenta associated with metabolic and endocrine function
 
 This repository contains the complete codebase and documentation for the analyses presented in our manuscript:
